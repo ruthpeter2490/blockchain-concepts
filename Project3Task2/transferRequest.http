@@ -1,0 +1,3 @@
+
+## transfer request to transfer funds from personal account to given account
+GET https://algoindexer.testnet.algoexplorerapi.io/v2/transactions/O4JFRTTRGXKRS5YCL7NLWBPYWFVDDN5ADGLBPD7QXT6XRH7NZY2A
